@@ -1,4 +1,5 @@
 # Pack YOLO+TensorRT+Cuda as dynamic link library and call through Python 
+[README中文版](https://github.com/emptysoal/YOLOv5-TensorRT-lib-Python/blob/main/README-chinese.md)
 
 ## Introduction
 
