@@ -205,7 +205,7 @@ Infer 003.jpg cost: 0.0043 s
 
 ## 其他项目
 
-作者的其他一些链接，若感兴趣，欢迎交流
+作者的其他一些项目，若感兴趣，欢迎交流
 
 [基于TensorRT v8部署加速YOLOv5-v5.0](https://github.com/emptysoal/TensorRT-v8-YOLOv5-v5.0)
 
