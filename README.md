@@ -1,4 +1,4 @@
-# 打包YOLO+TensorRT+Cuda为SO库，并通过Python调用
+# 编译YOLO+TensorRT+Cuda为SO库，并通过Python调用
 
 ## 项目简介
 
