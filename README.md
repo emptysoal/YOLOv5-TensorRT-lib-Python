@@ -150,7 +150,7 @@ pip install opencv-python==3.4.16.59
         └── para.wts  # 根据 yolov5s.pt 导出的 wts 格式模型文件
 ```
 
-也可以直接从官方`YOLOv5-v5.0`处下载 `yolov5s.pt`，然后直接进入到下面的模型转换
+也可以直接从官方`YOLOv5-v5.0`处下载 `yolov5s.pt`，然后直接进入到下面的模型转换部分
 
 ### YOLO模型转换
 
